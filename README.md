@@ -1,7 +1,7 @@
 #**Guess My Number**
 
 ##**Description**
-Guess-My-Number is my one of the project i built during my studies with HTML, CSS and JavaScript.
+Dive into the thrilling world of Guess-My-Number, where strategy, and excitement come together to deliver an unforgettable gaming experience! Whether you’re a casual gamer or a hardcore enthusiast, Guess-My-Number offers something for everyone. (I built during my studies with HTML, CSS and JavaScript)
 
 ##**Features**
 Responsive design for mobile and desktop
